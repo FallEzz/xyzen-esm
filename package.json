@@ -1,0 +1,37 @@
+{
+  "name": "xyzen-md",
+  "version": "1.0.0",
+  "description": "premium edition",
+  "type": "module",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/xyzendev/xyzen.git"
+  },
+  "author": "xyzendev",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/xyzendev/xyzen/issues"
+  },
+  "homepage": "https://github.com/xyzendev/xyzen#readme",
+  "dependencies": {
+    "@hapi/boom": "^10.0.1",
+    "@types/node": "^20.10.2",
+    "@whiskeysockets/baileys": "^6.5.0",
+    "awesome-phonenumber": "^6.2.0",
+    "axios": "^1.6.2",
+    "chalk": "^5.3.0",
+    "child_process": "^1.0.2",
+    "esm": "^3.2.25",
+    "file-type": "^16.5.3",
+    "fs": "^0.0.1-security",
+    "node-fetch": "^3.3.2",
+    "ora": "^7.0.1",
+    "path": "^0.12.7",
+    "pino": "^8.16.2",
+    "qrcode-terminal": "^0.12.0"
+  }
+}
