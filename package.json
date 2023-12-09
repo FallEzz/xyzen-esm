@@ -1,7 +1,7 @@
 {
-  "name": "xyzen-md",
+  "name": "xyzen-mjs",
   "version": "1.0.0",
-  "description": "premium edition",
+  "description": "esm only",
   "type": "module",
   "main": "index.js",
   "scripts": {
@@ -9,14 +9,14 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/xyzendev/xyzen.git"
+    "url": "git+https://github.com/xyzendev/xyzen-esm.git"
   },
   "author": "xyzendev",
   "license": "MIT",
   "bugs": {
-    "url": "https://github.com/xyzendev/xyzen/issues"
+    "url": "https://github.com/xyzendev/xyzen-esm/issues"
   },
-  "homepage": "https://github.com/xyzendev/xyzen#readme",
+  "homepage": "https://github.com/xyzendev/xyzen-esm#readme",
   "dependencies": {
     "@hapi/boom": "^10.0.1",
     "@types/node": "^20.10.2",
